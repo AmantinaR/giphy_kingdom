@@ -1,0 +1,73 @@
+*{
+    font-family: 'Gentium Book Basic', serif;
+}
+.hidden {
+    display: none;
+}
+.logo{
+    width: 100px;
+}
+body {
+    background-image: url("images/stone-wall.webp");
+}
+.header-area {
+    background-image: url("images/velvet.jpeg");
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: space-around;
+    padding: 10px;
+    padding-left: 40px;
+}
+h1 {
+    margin-right: 0px;
+    font-size: 60px;
+    margin-bottom: 5px;
+}
+.form{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color: wheat;
+    height: 40px;
+}
+.castle{
+    width: 100px;
+}
+.title{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+.input-area{
+    width: 40%;
+    
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+}
+#input {
+    width: 200px;
+}
+.gif-area {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: space-evenly;
+    flex-wrap: wrap;
+}
+.more-area {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+    padding: 20px;
+    background-color: wheat;
+    margin-top: 10px;
+    
+}
+.more {
+    font-size: 20px;
+    width: 200px;
+}
