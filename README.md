@@ -1,2 +1,1 @@
-# giphy_kingdom
-# You must use your own Tenor API Key
+# giphy_kingdom by Amantina Rossi
